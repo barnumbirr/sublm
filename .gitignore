@@ -1,0 +1,7 @@
+# Ignore everything...
+*
+# ... except preferences and package list
+!.gitignore
+!Preferences.sublime-settings
+!Package Control.sublime-settings
+!Default.sublime-mousemap

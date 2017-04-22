@@ -1,0 +1,4 @@
+[
+    { "button": "button1", "modifiers": ["option"], "press_command": "open_url_under_cursor" },
+    { "button": "button1", "count": 1,"modifiers": ["ctrl"], "press_command": "drag_select", "command": "goto_definition" }
+]

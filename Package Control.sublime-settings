@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"ColorHelper",
+		"DeleteBlankLines",
+		"ExportHtml",
+		"GitGutter",
+		"Google Search",
+		"Jedi - Python autocompletion",
+		"Markdown HTML Preview",
+		"Monokai Extended",
+		"Package Control",
+		"Python 3",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"TrailingSpaces",
+		"Whitespace"
+	]
+}
