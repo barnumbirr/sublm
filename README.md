@@ -19,7 +19,7 @@ If you also want to sync your packages, you can just add the following line (ass
 
 ```
 !Package Control.sublime-settings
-``
+```
 
 This file contains a list of installed packages. If that list has changed and Sublime Text is restarted, Package Control
 will automatically install missing packages, as described [here].(https://packagecontrol.io/docs/syncing)
@@ -55,7 +55,7 @@ $ git reset --hard origin/master
 
 ```
 $ git -C /Users/<user>/Library/Application Support/Sublime Text 3/Packages/User pull
-``
+```
 
 It occurs, that the settings files differ right after pulling the current versions from the repository (especially when
 Package Control loads missing packages) e.g. because of a different order of entries in the packages list or the settings
