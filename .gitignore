@@ -2,6 +2,6 @@
 *
 # ... except preferences and package list
 !.gitignore
+!Default.sublime-mousemap
 !Preferences.sublime-settings
 !Package Control.sublime-settings
-!Default.sublime-mousemap
