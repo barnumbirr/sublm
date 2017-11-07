@@ -22,7 +22,7 @@ If you also want to sync your packages, you can just add the following line (ass
 ```
 
 This file contains a list of installed packages. If that list has changed and Sublime Text is restarted, Package Control
-will automatically install missing packages, as described [here].(https://packagecontrol.io/docs/syncing)
+will automatically install missing packages, as described [here](https://packagecontrol.io/docs/syncing).
 
 ## Set up the first device
 
