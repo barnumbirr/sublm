@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
 		"BracketHighlighter",
 		"Clickable URLs",
 		"ColorHelper",
+		"Debian Syntax",
 		"DeleteBlankLines",
 		"ExportHtml",
 		"Git blame",
