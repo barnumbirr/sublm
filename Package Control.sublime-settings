@@ -1,32 +1,33 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"A File Icon",
-		"All Autocomplete",
-		"BracketHighlighter",
-		"Clickable URLs",
-		"ColorHelper",
-		"Debian Syntax",
-		"DeleteBlankLines",
-		"ExportHtml",
-		"Git blame",
-		"GitGutter",
-		"Google Search",
-		"Jedi - Python autocompletion",
-		"LiveReload",
-		"MarkdownPreview",
-		"Open in Git Repository",
-		"Package Control",
-		"Puppet",
-		"Python 3",
-		"requirementstxt",
-		"Rust Enhanced",
-		"SideBarEnhancements",
-		"TrailingSpaces",
-		"Whitespace"
-	]
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "A File Icon",
+        "All Autocomplete",
+        "BracketHighlighter",
+        "Clickable URLs",
+        "ColorHelper",
+        "Debian Syntax",
+        "DeleteBlankLines",
+        "ExportHtml",
+        "Git blame",
+        "GitGutter",
+        "Google Search",
+        "Jedi - Python autocompletion",
+        "LiveReload",
+        "MarkdownPreview",
+        "Open in Git Repository",
+        "Package Control",
+        "Puppet",
+        "Python 3",
+        "requirementstxt",
+        "Rust Enhanced",
+        "SCSS",
+        "SideBarEnhancements",
+        "TrailingSpaces",
+        "Whitespace",
+    ],
 }
