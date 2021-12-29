@@ -23,7 +23,7 @@
     "auto_find_in_selection": true,
     "bold_folder_labels": true,
     "overlay_scroll_bars": "enabled",
-    "trim_trailing_white_space_on_save": true,
+    "trim_trailing_white_space_on_save": false,
     "default_line_ending": "unix",
     "ensure_newline_at_eof_on_save": true,
     "shift_tab_unindent": true,
@@ -39,4 +39,5 @@
     [
         "Vintage",
     ],
+    "font_size": 12,
 }
