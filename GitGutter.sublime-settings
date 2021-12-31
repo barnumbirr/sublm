@@ -1,0 +1,9 @@
+// GitGutter Settings - User
+{
+    "git_binary": {
+        "default": "",
+        "windows": "C:/Program Files/Git/cmd/git.exe",
+        "linux": "/usr/bin/git",
+        "osx": "/usr/bin/git"
+    }
+}

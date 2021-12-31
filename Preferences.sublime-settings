@@ -3,9 +3,8 @@
     "theme": "Adaptive.sublime-theme",
     "themed_title_bar": false,
     "font_face": "Fira Code",
-    "font_options":
-    [
-        "subpixel_antialias"
+    "font_options": [
+        "subpixel_antialias",
     ],
     "rulers": [
         80,
@@ -30,13 +29,11 @@
     "show_line_endings": true,
     "drag_text": false,
     "highlight_modified_tabs": true,
-    "file_exclude_patterns":
-    [
+    "file_exclude_patterns": [
         ".DS_Store",
-        "*.pid"
+        "*.pid",
     ],
-    "ignored_packages":
-    [
+    "ignored_packages": [
         "Vintage",
     ],
     "font_size": 12,

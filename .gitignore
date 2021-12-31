@@ -1,8 +1,10 @@
 # Ignore everything...
 *
-# ... except preferences and package list
+# ... except some package/theme preference files and package list
 !.gitignore
 !Adaptive.sublime-theme
 !Default.sublime-mousemap
+!GitGutter.sublime-settings
+!Monokai.sublime-color-scheme
 !Preferences.sublime-settings
 !Package Control.sublime-settings
