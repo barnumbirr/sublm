@@ -29,6 +29,7 @@
     "show_line_endings": true,
     "drag_text": false,
     "highlight_modified_tabs": true,
+    "hardware_acceleration": "opengl",
     "file_exclude_patterns": [
         ".DS_Store",
         "*.pid",
