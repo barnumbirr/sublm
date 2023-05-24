@@ -38,4 +38,6 @@
         "Vintage",
     ],
     "font_size": 12,
+    "update_check": true,
+    "fallback_encoding": "UTF-8",
 }

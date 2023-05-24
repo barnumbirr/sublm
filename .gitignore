@@ -4,7 +4,7 @@
 !.gitignore
 !Adaptive.sublime-theme
 !Default.sublime-mousemap
-!GitGutter.sublime-settings
 !Monokai.sublime-color-scheme
-!Preferences.sublime-settings
 !Package Control.sublime-settings
+!Preferences.sublime-settings
+!trailing_spaces.sublime-settings

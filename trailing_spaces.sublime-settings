@@ -1,0 +1,3 @@
+{
+    "scope_ignore": ["text.find-in-files", "source.build_output", "source.diff"],
+}

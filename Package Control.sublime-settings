@@ -1,9 +1,5 @@
 {
     "bootstrapped": true,
-    "git_binary": [
-        "C:/Program Files/Git/cmd/git.exe",
-        "/usr/bin/git"
-    ],
     "in_process_packages":
     [
     ],
@@ -15,9 +11,9 @@
         "ColorHelper",
         "Debian Syntax",
         "DeleteBlankLines",
+        "Dockerfile Syntax Highlighting",
         "ExportHtml",
         "Git blame",
-        "GitGutter",
         "GithubEmoji",
         "Google Search",
         "IRC Syntax",
@@ -28,10 +24,12 @@
         "Package Control",
         "Puppet",
         "Python 3",
+        "RemoteSubl",
         "requirementstxt",
         "Rust Enhanced",
         "SCSS",
         "SideBarEnhancements",
+        "Terraform",
         "TrailingSpaces",
         "Whitespace",
     ],
